@@ -94,3 +94,7 @@ El sistema está compuesto por:
 
 #  Diagrama de conexiones 
 ![Arcade Terapéutico](https://github.com/EDCHC1234/Arcade-Terap-utico/blob/main/Captura%20de%20pantalla%202026-07-05%20231557.png)
+
+## 🎥 Demostración
+
+[![Ver video](images/video_portada.pn)](https://youtu.be/3NGd98oM3Ps)
