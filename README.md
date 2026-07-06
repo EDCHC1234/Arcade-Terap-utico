@@ -97,4 +97,4 @@ El sistema está compuesto por:
 
 ## 🎥 Demostración
 
-[![Ver video](images/video_portada.pn)](https://youtu.be/3NGd98oM3Ps)
+[![Ver video]](https://youtu.be/3NGd98oM3Ps)
