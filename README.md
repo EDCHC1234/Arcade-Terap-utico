@@ -92,4 +92,5 @@ El sistema está compuesto por:
 
 
 
-# 📂 Estructura del proyecto
+#  Diagrama de conexiones 
+![Arcade Terapéutico](images/prototipo.jpg)
